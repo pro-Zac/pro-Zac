@@ -1,4 +1,4 @@
-Hi there. I'm Zac. I work as a data engineer for a mid-sized NGO in Austin, Texas. 
+Hi there. I'm Zac. I work as an application developer for a mid-sized NGO in Austin, Texas. 
 
 I enjoy tacos, lots of data, coding, and long walks through the database.
 
